@@ -20,7 +20,11 @@ The objective is to identify customer behavior patterns, understand conversion b
 
 <p align="center">
 
-<img src="images/walkthrough.gif" width="900"><img width="1304" height="733" alt="Overview" src="https://github.com/user-attachments/assets/35e1e8d1-9b97-47c0-8f2b-3ef2dd0ed3a3" />
+<img src="images/walkthrough.gif" width="900"><img width="1
+
+https://github.com/user-attachments/assets/1bfa38f7-e1b7-4523-807c-1126d172b328
+
+304" height="733" alt="Overview" src="https://github.com/user-attachments/assets/35e1e8d1-9b97-47c0-8f2b-3ef2dd0ed3a3" />
 
 
 
