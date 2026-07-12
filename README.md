@@ -20,14 +20,7 @@ The objective is to identify customer behavior patterns, understand conversion b
 
 <p align="center">
 
-<img src="images/walkthrough.gif" width="900"><img width="1
-
-https://github.com/user-attachments/assets/1bfa38f7-e1b7-4523-807c-1126d172b328
-
-304" height="733" alt="Overview" src="https://github.com/user-attachments/assets/35e1e8d1-9b97-47c0-8f2b-3ef2dd0ed3a3" />
-
-
-
+<img src="images/walkthrough.gif" width="900">
 
 </p>
 
@@ -167,6 +160,8 @@ The dashboard is divided into four interactive report pages.
 <p align="center">
 
 <img src="images/overview.png" width="950">
+<img width="1304" height="733" alt="Overview" src="https://github.com/user-attachments/assets/1596a353-0632-4a61-a238-c2e227a8c871" />
+
 
 </p>
 
@@ -185,6 +180,8 @@ The dashboard is divided into four interactive report pages.
 <p align="center">
 
 <img src="images/sentiment.png" width="950">
+<img width="1303" height="729" alt="Customer Sentiment" src="https://github.com/user-attachments/assets/372d2579-4631-47ae-8552-d894f569ed76" />
+
 
 </p>
 
@@ -203,6 +200,8 @@ The dashboard is divided into four interactive report pages.
 <p align="center">
 
 <img src="images/conversion.png" width="950">
+<img width="1302" height="731" alt="Conversion Analysis" src="https://github.com/user-attachments/assets/8f76114a-f3d4-4070-bb83-9631ad17c626" />
+
 
 </p>
 
@@ -221,6 +220,8 @@ The dashboard is divided into four interactive report pages.
 <p align="center">
 
 <img src="images/marketing.png" width="950">
+<img width="1302" height="731" alt="Marketing Performance" src="https://github.com/user-attachments/assets/944aeffc-e7f3-4062-bb62-df374db5a76f" />
+
 
 </p>
 
@@ -302,22 +303,7 @@ Retail-Customer-Behavior-Analysis
 
 ---
 
-# 👨‍💻 Author
 
-## Asif Raza
+https://github.com/user-attachments/assets/fdca041d-05b0-4b19-8bf5-8baa1d13cc85
 
-B.Tech – Electronics & Communication Engineering
 
-Delhi Technological University (DTU)
-
-**Interested in**
-
-- Data Analytics
-- SQL
-- Python
-- Power BI
-- Business Intelligence
-
----
-
-# ⭐ If you found this project useful, consider giving it a Star!
