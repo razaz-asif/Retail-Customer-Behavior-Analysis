@@ -19,8 +19,6 @@ The objective is to identify customer behavior patterns, understand conversion b
 
 <p align="center">
 
-<img src="images/walkthrough.gif" width="900">
-
 
 https://github.com/user-attachments/assets/afb5ce5f-e3a9-4d4f-ad09-d67dbed7a88e
 
