@@ -16,7 +16,6 @@ The objective is to identify customer behavior patterns, understand conversion b
 
 # 🎥 Dashboard Walkthrough
 
-> *(Upload your GIF here)*
 
 <p align="center">
 
@@ -202,7 +201,6 @@ The dashboard is divided into four interactive report pages.
 
 <p align="center">
 
-<img src="images/conversion.png" width="950">
 <img width="1302" height="731" alt="Conversion Analysis" src="https://github.com/user-attachments/assets/8f76114a-f3d4-4070-bb83-9631ad17c626" />
 
 
@@ -305,7 +303,5 @@ Retail-Customer-Behavior-Analysis
 
 ---
 
-
-https://github.com/user-attachments/assets/fdca041d-05b0-4b19-8bf5-8baa1d13cc85
 
 
