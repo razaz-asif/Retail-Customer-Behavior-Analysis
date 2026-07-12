@@ -22,6 +22,11 @@ The objective is to identify customer behavior patterns, understand conversion b
 
 <img src="images/walkthrough.gif" width="900">
 
+
+https://github.com/user-attachments/assets/afb5ce5f-e3a9-4d4f-ad09-d67dbed7a88e
+
+
+
 </p>
 
 ---
@@ -159,7 +164,6 @@ The dashboard is divided into four interactive report pages.
 
 <p align="center">
 
-<img src="images/overview.png" width="950">
 <img width="1304" height="733" alt="Overview" src="https://github.com/user-attachments/assets/1596a353-0632-4a61-a238-c2e227a8c871" />
 
 
@@ -179,7 +183,6 @@ The dashboard is divided into four interactive report pages.
 
 <p align="center">
 
-<img src="images/sentiment.png" width="950">
 <img width="1303" height="729" alt="Customer Sentiment" src="https://github.com/user-attachments/assets/372d2579-4631-47ae-8552-d894f569ed76" />
 
 
@@ -218,8 +221,7 @@ The dashboard is divided into four interactive report pages.
 # 📢 Marketing Performance Dashboard
 
 <p align="center">
-
-<img src="images/marketing.png" width="950">
+        
 <img width="1302" height="731" alt="Marketing Performance" src="https://github.com/user-attachments/assets/944aeffc-e7f3-4062-bb62-df374db5a76f" />
 
 
