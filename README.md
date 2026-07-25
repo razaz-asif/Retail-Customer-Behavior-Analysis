@@ -20,7 +20,8 @@ The objective is to identify customer behavior patterns, understand conversion b
 <p align="center">
 
 
-https://github.com/user-attachments/assets/afb5ce5f-e3a9-4d4f-ad09-d67dbed7a88e
+https://github.com/user-attachments/assets/8bab410b-36bb-4835-a40e-df8cab6e174c
+
 
 
 
