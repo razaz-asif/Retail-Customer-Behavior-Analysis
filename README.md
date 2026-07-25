@@ -161,7 +161,7 @@ The dashboard is divided into four interactive report pages.
 
 <p align="center">
 
-<img width="1304" height="733" alt="Overview" src="https://github.com/user-attachments/assets/1596a353-0632-4a61-a238-c2e227a8c871" />
+<img width="1300" height="730" alt="Overview" src="https://github.com/user-attachments/assets/7d239b8c-96c9-4b20-a327-96fd222a2081" />
 
 
 </p>
@@ -180,7 +180,7 @@ The dashboard is divided into four interactive report pages.
 
 <p align="center">
 
-<img width="1303" height="729" alt="Customer Sentiment" src="https://github.com/user-attachments/assets/372d2579-4631-47ae-8552-d894f569ed76" />
+<img width="1299" height="729" alt="Customer Sentiment" src="https://github.com/user-attachments/assets/11485c91-6169-4d85-af0d-9c9c94819b34" />
 
 
 </p>
@@ -199,7 +199,7 @@ The dashboard is divided into four interactive report pages.
 
 <p align="center">
 
-<img width="1302" height="731" alt="Conversion Analysis" src="https://github.com/user-attachments/assets/8f76114a-f3d4-4070-bb83-9631ad17c626" />
+<img width="1298" height="728" alt="Conversion Analysis" src="https://github.com/user-attachments/assets/de4c3930-cae5-421b-afc3-b211dfd9ddbe" />
 
 
 </p>
@@ -218,7 +218,7 @@ The dashboard is divided into four interactive report pages.
 
 <p align="center">
         
-<img width="1302" height="731" alt="Marketing Performance" src="https://github.com/user-attachments/assets/944aeffc-e7f3-4062-bb62-df374db5a76f" />
+<img width="1297" height="727" alt="Marketing Performance" src="https://github.com/user-attachments/assets/44f23127-8fa8-4da7-8549-e00994dd59bd" />
 
 
 </p>
